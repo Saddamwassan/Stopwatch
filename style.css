@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    display: flex; 
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+font-size: 11px;
+height: 20px;
+width: 44px;
+text-align: center;
+}
+#time{
+font-size: 33px;
+}
